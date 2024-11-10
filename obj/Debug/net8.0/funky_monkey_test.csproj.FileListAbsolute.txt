@@ -1,0 +1,14 @@
+C:\Users\tonko\funky_monkey_test\bin\Debug\net8.0\funky_monkey_test.exe
+C:\Users\tonko\funky_monkey_test\bin\Debug\net8.0\funky_monkey_test.deps.json
+C:\Users\tonko\funky_monkey_test\bin\Debug\net8.0\funky_monkey_test.runtimeconfig.json
+C:\Users\tonko\funky_monkey_test\bin\Debug\net8.0\funky_monkey_test.dll
+C:\Users\tonko\funky_monkey_test\bin\Debug\net8.0\funky_monkey_test.pdb
+C:\Users\tonko\funky_monkey_test\obj\Debug\net8.0\funky_monkey_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonko\funky_monkey_test\obj\Debug\net8.0\funky_monkey_test.AssemblyInfoInputs.cache
+C:\Users\tonko\funky_monkey_test\obj\Debug\net8.0\funky_monkey_test.AssemblyInfo.cs
+C:\Users\tonko\funky_monkey_test\obj\Debug\net8.0\funky_monkey_test.csproj.CoreCompileInputs.cache
+C:\Users\tonko\funky_monkey_test\obj\Debug\net8.0\funky_monkey_test.dll
+C:\Users\tonko\funky_monkey_test\obj\Debug\net8.0\refint\funky_monkey_test.dll
+C:\Users\tonko\funky_monkey_test\obj\Debug\net8.0\funky_monkey_test.pdb
+C:\Users\tonko\funky_monkey_test\obj\Debug\net8.0\funky_monkey_test.genruntimeconfig.cache
+C:\Users\tonko\funky_monkey_test\obj\Debug\net8.0\ref\funky_monkey_test.dll
